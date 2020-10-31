@@ -1,3 +1,6 @@
+<!--these is  address page logic -->
+
+
 <?php 
 	include("config.php");
 	include("header.php");
